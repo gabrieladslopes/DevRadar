@@ -22,16 +22,51 @@
 </p>
 
 <p align="center">
-    <a href="#">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#">Setup</a>
+    <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#setup">Setup</a>
 </p>
 
-## Technologies
+# Technologies
 
 - [NodeJS](https://nodejs.org)
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://facebook.github.io/react-native)
+- [MongoDB](https://www.mongodb.com/)
+- [Express](https://expressjs.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Axios](https://github.com/axios/axios)
 
-## Setup
+# Setup
+
+To run this project you need [Git](https://git-scm.com/downloads), [NodeJS](https://nodejs.org/en/) (v12.14.1 or higher) and [Yarn](https://yarnpkg.com/) (v1.21.1 or higher) installed on your computer.
+
+## Backend
+
+<p>Clone this repository:</p>
+
+`$ git clone https://github.com/gabrieladslopes/DevRadar.git`
+
+<p> Change to the backend directory:</p>
+
+<code>$ cd DevRadar<br>
+$ cd backend</code>
+
+<p> Install dependencies: </p>
+
+`$ yarn install`
+
+<p> Start the backend server:</p>
+
+`$ yarn dev`
+
+## Web
+
+## Mobile
+
+
+
+
+
+
 
 
