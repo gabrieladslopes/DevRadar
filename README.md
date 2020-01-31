@@ -40,11 +40,11 @@
 
 To run this project you need [Git](https://git-scm.com/downloads), [NodeJS](https://nodejs.org/en/) (v12.14.1 or higher) and [Yarn](https://yarnpkg.com/) (v1.21.1 or higher) installed on your computer.
 
-## Backend
-
 <p>Clone this repository:</p>
 
 `$ git clone https://github.com/gabrieladslopes/DevRadar.git`
+
+## Backend
 
 <p> Change to the backend directory:</p>
 
@@ -61,7 +61,20 @@ $ cd backend</code>
 
 ## Web
 
-## Mobile
+<p>Change to the backend directory:</p>
+
+`$ cd ../web`
+
+<p>Install dependencies:</p>
+
+`$ yarn install`
+
+<p>Start:</p>
+
+`$ yarn start`
+
+<!-- ## Mobile -->
+
 
 
 
